@@ -1,5 +1,5 @@
 ```
-How to create ReactJS App.
+How to create ReactJS App...
 
 [root@minikube01 ~]# npm --version
 6.14.15
