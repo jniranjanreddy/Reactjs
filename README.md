@@ -1,4 +1,9 @@
+## Important plugins fir VSCode
+  1. prettier - Code Formatter
+  2. format document
+
 ```
+
 How to create ReactJS App...
 
 [root@minikube01 ~]# npm --version
