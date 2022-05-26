@@ -2,7 +2,8 @@
   1. prettier - Code Formatter
   2. format document
 
-JSX - JavaScript XML 
+JSX - JavaScript XML
+DOM - Document Object Model
 ```
 
 How to create ReactJS App...
