@@ -1,6 +1,8 @@
 ## Important plugins fir VSCode
   1. prettier - Code Formatter
   2. format document
+  3. babel ecma - Michael McDermott
+  4. code runner - jun Han
 
 JSX - JavaScript XML
 DOM - Document Object Model
