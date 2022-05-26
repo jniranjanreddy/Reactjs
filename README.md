@@ -6,6 +6,10 @@
 
 JSX - JavaScript XML
 DOM - Document Object Model
+
+D = Html Document
+O = elements like h1, head, body, label
+M = Complete Document means complete html document
 ```
 
 How to create ReactJS App...
