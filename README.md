@@ -1,5 +1,18 @@
+## Important plugins fir VSCode
+  1. prettier - Code Formatter
+  2. format document
+  3. babel ecma - Michael McDermott
+  4. code runner - jun Han
+
+JSX - JavaScript XML
+DOM - Document Object Model
+
+D = Html Document
+O = elements like h1, head, body, label
+M = Complete Document means complete html document
 ```
-How to create ReactJS App.
+
+How to create ReactJS App...
 
 [root@minikube01 ~]# npm --version
 6.14.15
