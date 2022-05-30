@@ -4,6 +4,7 @@
   3. babel ecma - Michael McDermott
   4. code runner - jun Han
   5. ES7+ React/Redux/React-Native snippets v4.4.3 -  dsznajder
+  
 
 
 JSX - JavaScript XML
@@ -18,9 +19,22 @@ Important Nodes
 1. components - its a function
 2. props - reuse of functions
 
+* FLOW
+App.js --> index.js --> index.html
 
 
 Compositions:
+
+Event Handlers
+1. on click event Handler
+2. On Change event Handler
+3. On Submit Handler
+
+Hooks:
+1. useState
+2. useEffect
+
+Database: https://firebase.google.com/
 
 ```
 
