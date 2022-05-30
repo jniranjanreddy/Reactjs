@@ -19,6 +19,10 @@ Important Nodes
 1. components - its a function
 2. props - reuse of functions
 
+Importanat URLs
+1. https://jsbin.com/ # for online coding
+
+
 * FLOW
 App.js --> index.js --> index.html
 
@@ -37,6 +41,14 @@ Hooks:
 Database: https://firebase.google.com/
 
 ```
+# Redux
+root@minikube01 /jnr/Reactjs (main) # npm install redux -g
+
+root@minikube01 /jnr/Reactjs (main) # npm install react-redux -g
+
+root@minikube01 /jnr/Reactjs (main) # npm install redux-thunk -g
+
+root@minikube01 /jnr/Reactjs (main) # npm install redux-devtools-extension
 
 
 
