@@ -3,6 +3,8 @@
   2. format document
   3. babel ecma - Michael McDermott
   4. code runner - jun Han
+  5. ES7+ React/Redux/React-Native snippets v4.4.3 -  dsznajder
+
 
 JSX - JavaScript XML
 DOM - Document Object Model
@@ -10,7 +12,22 @@ DOM - Document Object Model
 D = Html Document
 O = elements like h1, head, body, label
 M = Complete Document means complete html document
+
 ```
+Important Nodes
+1. components - its a function
+2. props - reuse of functions
+
+
+
+Compositions:
+
+```
+
+
+
+```
+
 
 How to create ReactJS App...
 
