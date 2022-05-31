@@ -5,6 +5,9 @@
   4. code runner - jun Han
   5. ES7+ React/Redux/React-Native snippets v4.4.3 -  dsznajder
   
+## Important modules
+1. MobX
+2. 
 
 
 JSX - JavaScript XML
