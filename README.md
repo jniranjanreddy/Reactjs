@@ -3,6 +3,12 @@
   2. format document
   3. babel ecma - Michael McDermott
   4. code runner - jun Han
+  5. ES7+ React/Redux/React-Native snippets v4.4.3 -  dsznajder
+  
+## Important modules
+1. MobX
+2. 
+
 
 JSX - JavaScript XML
 DOM - Document Object Model
@@ -10,7 +16,47 @@ DOM - Document Object Model
 D = Html Document
 O = elements like h1, head, body, label
 M = Complete Document means complete html document
+
 ```
+Important Nodes
+1. components - its a function
+2. props - reuse of functions
+
+Importanat URLs
+1. https://jsbin.com/ # for online coding
+
+
+* FLOW
+App.js --> index.js --> index.html
+
+
+Compositions:
+
+Event Handlers
+1. on click event Handler
+2. On Change event Handler
+3. On Submit Handler
+
+Hooks:
+1. useState
+2. useEffect
+
+Database: https://firebase.google.com/
+
+```
+# Redux
+root@minikube01 /jnr/Reactjs (main) # npm install redux -g
+
+root@minikube01 /jnr/Reactjs (main) # npm install react-redux -g
+
+root@minikube01 /jnr/Reactjs (main) # npm install redux-thunk -g
+
+root@minikube01 /jnr/Reactjs (main) # npm install redux-devtools-extension
+
+
+
+```
+
 
 How to create ReactJS App...
 
