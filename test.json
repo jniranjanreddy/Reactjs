@@ -1,0 +1,12 @@
+var data = {
+  "person1":{
+    "name":"niru",
+    "age":"30"
+  },
+  "person2":{
+    "name":"raji",
+    "age":"25"
+  }
+  
+}
+console.log(data.person2["name"])
